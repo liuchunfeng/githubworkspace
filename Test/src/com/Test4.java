@@ -12,7 +12,6 @@ public class Test4 {
 		System.out.println(getUUID());
 
 	}
-	aa
 
 	public static String getUUID() {
 		String s = UUID.randomUUID().toString();
