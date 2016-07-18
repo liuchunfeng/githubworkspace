@@ -10,7 +10,7 @@ public class Test4 {
 		System.out.println(s);
 		
 		System.out.println(getUUID());
-
+aaaas
 	}
 
 	public static String getUUID() {
